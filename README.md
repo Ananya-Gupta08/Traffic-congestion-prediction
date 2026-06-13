@@ -69,7 +69,7 @@ The project successfully identified traffic patterns and demonstrated how machin
 
 ## Project Structure
 
-├── notebook.ipynb
+├── Uber_traffic_model.ipynb
 ├── requirements.txt
 ├── README.md
 └── dataset/
